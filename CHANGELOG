@@ -2,3 +2,6 @@
 
   * Fixed BSON ObjIDs being converted incorrectly
     (https://github.com/nh2/aesonbson/pull/2)
+0.3.0 
+  * Fixed BSON ObjIDs in a more robust way using extracting types
+  
